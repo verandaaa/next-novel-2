@@ -1,4 +1,5 @@
-# 🎲 [고도화 프로젝트] [그림이 소설이 되는, Next Novel](https://github.com/verandaaa/next-novel-2)
+# 🎲 [고도화 프로젝트] 그림이 소설이 되는, Next Novel
+기존 프로젝트에 대한 정보는 [이곳](https://github.com/verandaaa/next-novel)에서 확인하실 수 있습니다.
 
 <br>
 
